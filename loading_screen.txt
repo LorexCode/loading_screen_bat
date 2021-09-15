@@ -116,3 +116,4 @@ echo Thanks for using.
 echo **********************************
 echo * YOU CAN REMOVE THİS
 echo **********************************
+pause > nul 
