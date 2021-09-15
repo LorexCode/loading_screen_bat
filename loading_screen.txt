@@ -110,8 +110,9 @@ echo Successfully Loaded !!
 echo Press any key to continue.
 pause > nul
 cls
-echo ------------------------------------------------------
-echo | Hi !                                                                             |
-echo | Im @LorexCode on GitHub Platform.                 |
-echo | Thanks for using.                                                    |
-echo ------------------------------------------------------
+echo Hi !
+echo I'm @LorexCode on github platform.
+echo Thanks for using.
+echo **********************************
+echo * YOU CAN REMOVE THİS
+echo **********************************
